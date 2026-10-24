@@ -8,7 +8,8 @@ An interactive map of Texas and Louisiana for land, oil and gas, power, carbon c
 
 - **Petroleum land system:** Texas original land surveys and abstracts, Louisiana section-township-range grid
 - **Surface parcels and tax appraisal:** Montgomery, Angelina, Sabine and Newton counties, TX, and DeSoto Parish, LA; statewide Texas parcels and roads (live)
-- **Oil and gas:** Texas GLO units, Louisiana units and state leases, RRC wells and pipelines (live), USGS assessment units for the Austin Chalk, Smackover, Haynesville and Frio
+- **Ranches and large landholdings:** ranch, cattle and farm entities (100+ ac) and private owners of 1,000+ ac in the 71 Texas counties east of Dallas plus DeSoto and Calcasieu parishes, from 2026 appraisal and assessor rolls
+- **Oil and gas:** Texas GLO units, Louisiana units and state leases, RRC wells and pipelines (live), drilling permits approved since Oct 2025 (RRC W-1 and SONRIS), USGS assessment units for the Austin Chalk, Smackover, Haynesville and Frio
 - **Electricity:** transmission lines, operating and planned power plants, ERCOT's planned 765-kV lines (STEP)
 - **Federal and state minerals:** federal lands, Texas state mineral and submerged lands, active state leases, Louisiana water bottoms and reserved minerals
 - **CCS:** Class VI applications, CO2 emitters, saline, coal-seam and depleted-field storage capacity

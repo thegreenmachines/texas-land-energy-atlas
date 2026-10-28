@@ -18,8 +18,12 @@ An interactive map of Texas and Louisiana for land, oil and gas, power, carbon c
 - **CCS:** Class VI applications, CO2 emitters, saline, coal-seam and depleted-field storage capacity
 - **Lithium, solar, wind and geothermal:** USGS lithium data, Smackover trend, Arkansas brine units, solar resource, wind turbines, geothermal favorability
 - **Surface and environment:** FEMA flood zones, wetlands, bare-earth elevation (live), forests, rainfall, detailed coastal bays and ship channels
+- **Cities and towns:** all 2,348 2020 Census places in Texas and Louisiana (cities, towns, villages and census-designated places), labeled by population as you zoom
+- **CCS wells:** ExxonMobil Low Carbon Solutions wells in Texas (Rose, Sunflower, Water Lily and Potato projects)
+- **Activity searches:** operators that spudded wells in Beauregard and Calcasieu parishes since Oct 2019 (SONRIS)
+- **Space:** SpaceX (Starbase, planned Starbase Louisiana, McGregor, Bastrop) and the Starship flight log, NASA centers, Blue Origin, Firefly and other space companies, spaceports, night-sky brightness (2025), International Dark Sky Places and observatories
 
-Layer categories in the sidebar collapse and expand. Quick-layer buttons switch between Upstream, Midstream, Subsurface, Power and CCS views. First-time visitors start with only the base map and the petroleum land system. Click anywhere on the map for details about what's there.
+Layer categories in the sidebar collapse and expand. Quick-layer buttons switch between Upstream, Midstream, Subsurface, Power and CCS views. One search box finds places, abstracts ("Harris A-382"), Louisiana sections ("14-12N-10W"), coordinates, operators and layers. First-time visitors start with only the base map and the petroleum land system. Click anywhere on the map for details about what's there.
 
 ## How it works
 
